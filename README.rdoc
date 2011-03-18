@@ -1,0 +1,46 @@
+= README
+
+== Name
+
+ActiveGroonga Fabrication
+
+== Description
+
+A ActiveGroonga generator for Fabrication.
+
+* ActiveGroonga: http://groonga.rubyforge.org/
+* Fabrication: https://github.com/paulelliott/fabrication
+
+== Author
+
+Kouhei Sutou <tt><kou@clear-code.com></tt>
+
+== License
+
+LGPL 2.1. See license/LGPL for details.
+
+(Kouhei Sutou has a right to change license including
+contributed patches.)
+
+== Dependencies
+
+* ActiveGroonga
+* Fabrication
+
+== Install
+
+  % sudo gem install activegroonga-fabrication
+
+== Documents
+
+Japanese only. Sorry.
+
+http://groonga.rubyforge.org/activegroonga-fabrication/
+
+== Mailing list
+
+http://rubyforge.org/mailman/listinfo/groonga-users-en
+
+== Thanks
+
+* ...
