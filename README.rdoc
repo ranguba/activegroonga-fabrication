@@ -31,6 +31,12 @@ contributed patches.)
 
   % sudo gem install activegroonga-fabrication
 
+== Usage
+
+Just require. Now, you can use Fabrication for ActiveGroonga.
+
+  require "active_groonga_fabrication"
+
 == Documents
 
 Japanese only. Sorry.

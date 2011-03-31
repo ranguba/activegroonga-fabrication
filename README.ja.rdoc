@@ -31,6 +31,12 @@ LGPL 2.1です。詳しくはlicense/LGPLを見てください。
 
   % sudo gem install activegroonga-fabrication
 
+== 使い方
+
+これだけです。後はふつうにFabricationを利用できます。
+
+  require "active_groonga_fabrication"
+
 == ドキュメント
 
 http://groonga.rubyforge.org/activegroonga-fabrication/
