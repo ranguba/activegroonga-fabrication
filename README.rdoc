@@ -41,7 +41,7 @@ Just require. Now, you can use Fabrication for ActiveGroonga.
 
 Japanese only. Sorry.
 
-http://groonga.rubyforge.org/activegroonga-fabrication/
+http://ranguba.org/activegroonga-fabrication/
 
 == Mailing list
 

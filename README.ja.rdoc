@@ -39,7 +39,7 @@ LGPL 2.1です。詳しくはlicense/LGPLを見てください。
 
 == ドキュメント
 
-http://groonga.rubyforge.org/activegroonga-fabrication/
+http://ranguba.org/activegroonga-fabrication/
 
 == メーリングリスト
 
