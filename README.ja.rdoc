@@ -8,7 +8,7 @@ ActiveGroonga Fabrication
 
 FabricationのActiveGroongaジェネレータです。
 
-* ActiveGroonga: http://groonga.rubyforge.org/
+* ActiveGroonga: http://ranguba.org/#about-active-groonga
 * Fabrication: https://github.com/paulelliott/fabrication
 
 == 作者
