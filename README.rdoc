@@ -45,7 +45,7 @@ http://ranguba.org/activegroonga-fabrication/
 
 == Mailing list
 
-http://rubyforge.org/mailman/listinfo/groonga-users-en
+http://lists.sourceforge.net/mailman/listinfo/groonga-talk
 
 == Thanks
 
